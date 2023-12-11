@@ -4,4 +4,4 @@ const router = express.Router();
 
 router.post("/", handleGenerateNewShortURL);
 
-
+module.eports = router;
